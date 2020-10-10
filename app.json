@@ -10,17 +10,17 @@
   "env": {
     "CONSUMER_KEY": {
       "description": "Consumer Key from app registered at https://developer.twitter.com/apps/.",
-      "value": "lSQdkLHZWVKdExmn5aZwz07cm",
+      "value": "",
       "required": true
     },
     "CONSUMER_SECRET": {
       "description": "Consumer Secret from app registered at https://developer.twitter.com/apps/.",
-      "value": "VqtOjjEnNirx2Z8uPVM5QuAjRonLhGVXj4fSPjWZD93tEZkvPo",
+      "value": "",
       "required": true
     },
     "OAUTH_CALLBACK": {
       "description": "Callback URL from app registered at https://developer.twitter.com/apps/. If site is hosted at https://example.herokuapp.com/ use https://example.herokuapp.com/callback.php.",
-      "value": "https://nitowhalebot.herokuapp.com/callback.php",
+      "value": "",
       "required": true
     },
     "GOOGLE_ANALYTICS_ID": {
