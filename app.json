@@ -30,12 +30,12 @@
     },
     "FORCE_TLS": {
       "description": "Enable if you are running on a host with HTTPS.",
-      "value": "false",
+      "value": "true",
       "required": true
     },
     "HOST": {
       "description": "The subdomain and domain the site is running on. E.g. example.com or example.herokuap.com.",
-      "value": "",
+      "value": "nitowhalebot.herokuapp.com",
       "required": true
     },
     "DEBUG": {
