@@ -1,6 +1,8 @@
 <?php
 
-require 'bootstrap.php';
-use Abraham\TwitterOAuth\TwitterOAuth;
+echo 'deneme';
 
-echo $twig->render('index.html');
+//require 'bootstrap.php';
+//use Abraham\TwitterOAuth\TwitterOAuth;
+//
+//echo $twig->render('index.html');
